@@ -9,5 +9,5 @@
 // ==/UserScript==
 
 $(document).ready(function(){
-    $.getScript('https://raw.githubusercontent.com/LoucasseRG/scriptsrg/master/script.js');
+    $.getScript('https://rawgit.com/LoucasseRG/scriptsrg/master/script.js');
 });
