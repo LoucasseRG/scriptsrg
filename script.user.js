@@ -9,5 +9,5 @@
 // ==/UserScript==
 
 $(document).ready(function(){
-    $.getScript('http://loucasserg.net78.net/discuteraveclestaff/script.js');
+    $.getScript('https://raw.githubusercontent.com/LoucasseRG/scriptsrg/master/script.js');
 });
